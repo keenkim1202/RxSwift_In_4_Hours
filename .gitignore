@@ -11,6 +11,12 @@
 build/
 DerivedData/
 
+## DS_Store
+.DS_Store
+
+## Pods
+*/Pods
+
 ## Various settings
 *.pbxuser
 !default.pbxuser
